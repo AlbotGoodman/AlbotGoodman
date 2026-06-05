@@ -7,10 +7,11 @@
 
 ---
 
-My name is Anders, or Albot, I can't seem to remember which. Anyways, this is my GitHub profile!  
+Hey, Albot here.  
 
-Here you can expect to find predominantly school related repos since I'm currently enrolled in Ivy League studies at IT-Högskolan.
-The one to teach us about the dark arts of AI is none other than [Raphael](https://github.com/pr0fez).  
+This is a place full of private repos and nonsensical AI/ML projects - a one-way stop to nowhere.  
+Have mercy on my early work, it's from school. The rest? Well, be kind. If you for some reason find  
+anything of value here feel free to reach out. I'm open to discounts, job offers and non-vulgar requests.  
 
 <details>
 <summary>More about me</summary>
@@ -21,8 +22,6 @@ The one to teach us about the dark arts of AI is none other than [Raphael](https
 🔭 *redacted due to privacy concerns*  
 
 </details>
-
-Feel free to contact me with relevant discounts, job offers or non-vulgar requests. 
 
 
 
